@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&Welcome%20to%20moonjung's%20GitHub%20👋&animation=blink&fontSize=35&fontColor=000000" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Welcome%20to%20moonjung's%20GitHub%20👋&animation=twinkling&fontSize=35&fontColor=000000" />
 
 
 <!--타이틀 부분
