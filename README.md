@@ -1,11 +1,13 @@
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=Welcome%20to%20moonjung's%20GitHub%20👋&animation=twinkling&fontSize=35&fontColor=000000" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=Welcome%20to%20moonjung's%20GitHub%20👋&animation=twinkling&fontSize=35&fontColor=000000" />
+</div>
 
-
--내용 부분
 <h3 align="center">✨ Tech Stack ✨</h3>
 
 ## 👉 Language
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ## ✌ Frontend
 ## 🤟 Backend
 ## 🖖 Database
