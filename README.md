@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Iam%20moonjung👋&fontSize=90&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Iam%20moonjung👋&fontSize=90&fontColor=000000" />
 <!--
 **moonjungkimm/moonjungkimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
