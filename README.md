@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonjungkimm&layout=compact)](https://github.com/delay-100/github-readme-stats)
 
 <br>
 
