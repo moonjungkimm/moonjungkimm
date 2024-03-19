@@ -3,9 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=Welcome%20to%20moonjung's%20GitHub%20👋&animation=twinkling&fontSize=35&fontColor=000000" />
 </div>
 
-<h3 style="text-align:center; border-bottom:1px solid #000;">✨ Tech Stack ✨</h3>
+<h3 style="text-align:center; border-bottom:0.5px solid #000;">✨ Tech Stack ✨</h3>
 
----
 
 #### 👉 Frontend
 <div align=left> 
