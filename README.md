@@ -39,10 +39,10 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
+<h3 align="left">📫 Contact 📫</h3>
+<div align="left">
   <a href="https://low-approval-845.notion.site/Minimal-Designer-Resume-a366ea4339dd46fbbc846946156a6a95?pvs=4">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Notion-1EBC8F?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
   </a>
   <a href="mailto:moon_d_2@naver.com">
     <img
