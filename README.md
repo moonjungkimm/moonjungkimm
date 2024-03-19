@@ -4,13 +4,9 @@
 </div>
 
 
-<h3 align="center" class="border-bottom">✨ Tech Stack ✨</h3>
+<h3 align="center">✨ Tech Stack ✨</h3>
 
-<style>
-    .border-bottom {
-        border-bottom: 1px solid #000;
-    }
-</style>
+# ✨ Tech Stack ✨
 
 #### 👉 Frontend
 <div align=left> 
