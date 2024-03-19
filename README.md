@@ -4,7 +4,7 @@
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
-<br>
+-------------
 
 #### 👉 Frontend
 <div align=left> 
