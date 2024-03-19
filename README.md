@@ -47,11 +47,8 @@
 
 
 <div align="center">
-  <a href="https://low-approval-845.notion.site/Minimal-Designer-Resume-a366ea4339dd46fbbc846946156a6a95?pvs=4">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
-  </a><a href="mailto:moon_d_2@naver.com">
-    <img src="https://img.shields.io/badge/moon_d_2@naver.com-03C75A?style=flat-square&logo=Mail&logoColor=white"/>
-  </a>
+  <a href="https://low-approval-845.notion.site/Minimal-Designer-Resume-a366ea4339dd46fbbc846946156a6a95?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
+  <a href="mailto:moon_d_2@naver.com"><img src="https://img.shields.io/badge/moon_d_2@naver.com-03C75A?style=for-the-badge&logo=Mail&logoColor=white"/></a>
 </div>
 
 
