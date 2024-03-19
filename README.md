@@ -4,7 +4,7 @@
 </div>
 
 
-<h3 align="left">✨ Tech Stack ✨</h3>
+>><h3 align="left">✨ Tech Stack ✨</h3>
 
 ## 
 
@@ -44,7 +44,7 @@
 
 ***
 
-<h3 align="left">📫 Contact 📫</h3>
+>><h3 align="left">📫 Contact 📫</h3>
 
 ## 
 
@@ -53,8 +53,7 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
   </a>
   <a href="mailto:moon_d_2@naver.com">
-    <img
-      src="https://img.shields.io/badge/moon_d_2@naver.com-03C75A?style=flat-square&logo=Mail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/moon_d_2@naver.com-03C75A?style=flat-square&logo=Mail&logoColor=white"/>
   </a>
 </div>
 
