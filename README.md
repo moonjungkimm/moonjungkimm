@@ -17,26 +17,26 @@
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
 </div>
 
-#### ✌ Backend
+<h5 align="center">✌ Backend</h5>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
 </div>
 
-#### 🤟 Database
+<h5 align="center">🤟 Database</h5>
 <div align=center> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
 </div>
 
-#### 🖖 Server
+<h5 align="center">🖖 Server</h5>
 <div align=center> 
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
 </div>
 
-#### 🖐 DevOps
+<h5 align="center">🖐 DevOps</h5>
 <div align=center> 
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
@@ -47,7 +47,7 @@
 
 
 
-><h3 align="center">📫 Contact 📫</h3>
+<h3 align="center">📫 Contact 📫</h3>
 
 ## 
 
