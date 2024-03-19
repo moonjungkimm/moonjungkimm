@@ -6,8 +6,6 @@
 
 <h2 align="center">✨ Tech Stack ✨</h3>
 
-## 
-
 <h5 align="center"> 👉 Frontend</h5>
 <div align=center> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
@@ -46,10 +44,8 @@
 
 
 
-
 <h2 align="center">📫 Contact 📫</h3>
 
-## 
 
 <div align="center">
   <a href="https://low-approval-845.notion.site/Minimal-Designer-Resume-a366ea4339dd46fbbc846946156a6a95?pvs=4">
