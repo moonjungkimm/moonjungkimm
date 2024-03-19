@@ -4,7 +4,7 @@
 </div>
 
 
->><h3 align="left">✨ Tech Stack ✨</h3>
+><h3 align="left">✨ Tech Stack ✨</h3>
 
 ## 
 
@@ -42,9 +42,12 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 </div>
 
-***
 
->><h3 align="left">📫 Contact 📫</h3>
+
+
+
+
+><h3 align="left">📫 Contact 📫</h3>
 
 ## 
 
