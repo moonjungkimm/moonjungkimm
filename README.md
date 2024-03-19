@@ -5,8 +5,7 @@
 
 
 <h3 align="center">✨ Tech Stack ✨</h3>
-
-# ✨ Tech Stack ✨
+## 
 
 #### 👉 Frontend
 <div align=left> 
@@ -43,8 +42,7 @@
 </div>
 
 <h3 align="center">📫 Contact 📫</h3>
-
----
+## 
 
 <div align="center">
   <a href="https://low-approval-845.notion.site/Minimal-Designer-Resume-a366ea4339dd46fbbc846946156a6a95?pvs=4">
